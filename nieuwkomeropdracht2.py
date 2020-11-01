@@ -200,7 +200,10 @@ def verhaalstukje11():
         verhaalstukje12()
     else:
         print("Je kunt alleen antwoorden met A of B")
-        
+
+def verhaalstukje12():
+    print("Je bent heel blij bij je nieuwe bedrijf het is klein maar, je hebt geen concurrentie niet teveel werk en je hebt nog een goede salaris ook. Er wacht een heel goede toekomst voor je welke keuzes ga je allemaal daarvoor maken?")
+    opties()
         
 
         
